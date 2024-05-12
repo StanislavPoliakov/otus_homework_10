@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailViewController.isFullNameShown.didset:DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data?.fullName">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "data?.firstName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyViewController.tableView(_:didSelectRowAt:):MyViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

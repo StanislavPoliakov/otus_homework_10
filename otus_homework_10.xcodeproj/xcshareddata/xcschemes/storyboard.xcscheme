@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E2C3B3762BEF90B1006EFAC8"
-               BuildableName = "otus_homework_10.app"
-               BlueprintName = "otus_homework_10"
+               BuildableName = "storyboard.app"
+               BlueprintName = "storyboard"
                ReferencedContainer = "container:otus_homework_10.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2C3B3762BEF90B1006EFAC8"
-            BuildableName = "otus_homework_10.app"
-            BlueprintName = "otus_homework_10"
+            BuildableName = "storyboard.app"
+            BlueprintName = "storyboard"
             ReferencedContainer = "container:otus_homework_10.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2C3B3762BEF90B1006EFAC8"
-            BuildableName = "otus_homework_10.app"
-            BlueprintName = "otus_homework_10"
+            BuildableName = "storyboard.app"
+            BlueprintName = "storyboard"
             ReferencedContainer = "container:otus_homework_10.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

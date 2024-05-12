@@ -3,6 +3,14 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "DetailViewController.viewDidLoad():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView.intrinsicContentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "DetailViewController.isFullNameShown.didset:DetailViewController.swift">
          <PersistentStrings>
             <PersistentString
